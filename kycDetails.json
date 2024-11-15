@@ -1,0 +1,19 @@
+{
+  "kyc_name_and_pan_number": {
+    "53e073f0-a38c-11ef-98c6-5e8a8cd0bb0b": {
+      "name": "Ram",
+      "pan_number": "QCIPS10SSURAM",
+      "merchant_id": "53e073f0-a38c-11ef-98c6-5e8a8cd0bb0b"
+    },
+    "6903a4d2-a38c-11ef-98c6-5e8a8cd0bb0b": {
+      "name": "Sabari",
+      "pan_number": "QCIPS10SSABARI",
+      "merchant_id": "6903a4d2-a38c-11ef-98c6-5e8a8cd0bb0b"
+    },
+    "79490890-a38c-11ef-8dba-5e8a8cd0bb0b": {
+      "name": "Afroze",
+      "pan_number": "QCIPS10SSAFROZE",
+      "merchant_id": "79490890-a38c-11ef-8dba-5e8a8cd0bb0b"
+    }
+  }
+}
